@@ -18,3 +18,7 @@ This distribution is comprised of three files:
 2. Now, to get things up and running, execute the installer `install.cmd` from a cmd prompt. This will extract the `IconSetBuilder` app folder and setup the Python environment automatically so you don't need to deal with any Python related details.
 3. Read `README.md` in the IconSetBuilder folder for detailed information on configuration and usage.
 
+## GitHub
+
+This project can be found on GitHub at [Directory Opus IconSet Builder](https://github.com/mark-ingenosity/DOpus-IconSetBuilder)
+

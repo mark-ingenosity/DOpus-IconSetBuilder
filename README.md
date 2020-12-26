@@ -140,5 +140,5 @@ DOpus standard icon sets use a naming convention and icon ordering that is commo
 
 ## GitHub
 
-This project can be found on GitHub at [Directory Opus IconSet Builder](https://github.com/mark-vlach/DOpus-IconSet-Builder.git)
+This project can be found on GitHub at [Directory Opus IconSet Builder](https://github.com/mark-ingenosity/DOpus-IconSetBuilder)
 
