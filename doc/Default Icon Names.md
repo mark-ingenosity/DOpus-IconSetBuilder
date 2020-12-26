@@ -1,6 +1,6 @@
 # Directory Opus Default Icon Names
 
-Following is a list of the default names assigned to a standard DOpus iconset along with the position of each icon in the icon set's master image file (icon sheet). Note that the individual icon image associated with a name is meant to somehow convey the name's meaning, If you choose to use this naming convention, you may want to choose icon images that do the same. In preparing an `IconSetBuilder` configuration file, these names will need to be inserted into the `"names" sections` of that file. See `README.md` for details.
+Following is a list of the default names assigned to a standard DOpus iconset along with the position of each icon in the icon set's master image file (icon sheet). Note that the individual icon image associated with a name is meant to somehow convey the name's meaning, If you choose to use this naming convention, you may want to choose icon images that do the same. In preparing an `IconSetBuilder` configuration file, these names will need to be inserted into the`names`section of that file. See `README.md` for details on the IconSetBuilder configuration file format.
 
 Note that there is no requirement to use this naming convention. It is simply meant as a guide to indicate how Directory Opus's default icon sets work. By following this DOPus naming convention and icon row/col placement, your own iconset can be seamlessly swapped in to match the same default icon assignments.
 

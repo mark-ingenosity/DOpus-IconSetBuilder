@@ -128,9 +128,14 @@ IconSetBuilder.cmd -h
 
 - Displays the usage information for the app
 
-## Default Icon Names
+## Icon Names
 
-DOpus standard icon sets use a naming convention and icon ordering that is common across all standard sets. If you wish to follow that convention, see `Default Icon Names.md` in the doc folder for details,
+Names can be assigned to individual icons in one of two ways:
+
+- **Names List (optional)**: include a list of names in the configuration file under the `names` section for each of the large and small icon sets. The `names` list length should match one-to-one with the `icons` list length. If there is a difference between the two, the script will quit with an error.
+- **Automatic Naming (default)**: if the `names` section for the large and small sets are not specified in the configuration file, the script will "auto-create" icon names derived from the icon filenames themselves by replacing underscores and dashes with spaces and then applying title-case to the individual words in the name (ex.my-icon-file.png will result in the name My Icon File.)
+
+**Consideration**: you can use whatever names you wish for your icons, but it is worthwhile to consider using the naming convention established for standard DOpus iconsets. This convention does two things: 1) it defines an ordered list of icon names that corresponding to specific DOpus commands and 2) references icons that visually correspond to the meaning of those commands. The order of the names in the list correspond to the row x col position of  icons in the iconset master image grid (icon sheet). If you wish to follow that convention, see `Default Icon Names.md` in the doc folder for details,
 
 ## Caveats
 
