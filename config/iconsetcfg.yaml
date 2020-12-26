@@ -1,0 +1,152 @@
+########################################
+# DOPus iconSetBuilder YAML Config File
+########################################
+
+iconsets:
+  #######################
+  # Iconset Definition
+  #######################
+  parameters:
+    name: X-Qute Test IconSet (YAML)
+    display_name: Test iconset using YAML based iconset definitions
+    artist: Yvette
+    copyright: 2020
+  ######################
+  # Large Icon Set
+  ######################
+  sets:
+    large:
+      parameters:
+        directory: example/icons/32
+        iconsize: 32
+      icons:
+        - X-Qute_01.png
+        - X-Qute_02.png
+        - X-Qute_03.png
+        - X-Qute_04.png
+        - X-Qute_05.png
+        - X-Qute_06.png
+        - X-Qute_07.png
+        - X-Qute_08.png
+        - X-Qute_09.png
+        - X-Qute_10.png
+        - X-Qute_11.png
+        - X-Qute_12.png
+        - X-Qute_13.png
+        - X-Qute_14.png
+        - X-Qute_15.png
+        - X-Qute_16.png
+        - X-Qute_17.png
+        - X-Qute_18.png
+        - X-Qute_19.png
+        - X-Qute_20.png
+        - X-Qute_21.png
+        - X-Qute_22.png
+        - X-Qute_23.png
+        - X-Qute_24.png
+        - X-Qute_25.png
+        - X-Qute_26.png
+        - X-Qute_27.png
+        - X-Qute_28.png
+        - X-Qute_29.png
+        - X-Qute_30.png
+      names:
+        - X-Qute Large 01
+        - X-Qute Large 02
+        - X-Qute Large 03
+        - X-Qute Large 04
+        - X-Qute Large 05
+        - X-Qute Large 06
+        - X-Qute Large 07
+        - X-Qute Large 08
+        - X-Qute Large 09
+        - X-Qute Large 10
+        - X-Qute Large 11
+        - X-Qute Large 12
+        - X-Qute Large 13
+        - X-Qute Large 14
+        - X-Qute Large 15
+        - X-Qute Large 16
+        - X-Qute Large 17
+        - X-Qute Large 18
+        - X-Qute Large 19
+        - X-Qute Large 20
+        - X-Qute Large 21
+        - X-Qute Large 22
+        - X-Qute Large 23
+        - X-Qute Large 24
+        - X-Qute Large 25
+        - X-Qute Large 26
+        - X-Qute Large 27
+        - X-Qute Large 28
+        - X-Qute Large 29
+        - X-Qute Large 30
+    ######################
+    # Small Icon Set
+    ######################
+    small:
+      parameters:
+        directory: example/icons/24
+        iconsize: 24
+      icons:
+        - X-Qute_01.png
+        - X-Qute_02.png
+        - X-Qute_03.png
+        - X-Qute_04.png
+        - X-Qute_05.png
+        - X-Qute_06.png
+        - X-Qute_07.png
+        - X-Qute_08.png
+        - X-Qute_09.png
+        - X-Qute_10.png
+        - X-Qute_11.png
+        - X-Qute_12.png
+        - X-Qute_13.png
+        - X-Qute_14.png
+        - X-Qute_15.png
+        - X-Qute_16.png
+        - X-Qute_17.png
+        - X-Qute_18.png
+        - X-Qute_19.png
+        - X-Qute_20.png
+        - X-Qute_21.png
+        - X-Qute_22.png
+        - X-Qute_23.png
+        - X-Qute_24.png
+        - X-Qute_25.png
+        - X-Qute_26.png
+        - X-Qute_27.png
+        - X-Qute_28.png
+        - X-Qute_29.png
+        - X-Qute_30.png
+      names:
+        - X-Qute Small 01
+        - X-Qute Small 02
+        - X-Qute Small 03
+        - X-Qute Small 04
+        - X-Qute Small 05
+        - X-Qute Small 06
+        - X-Qute Small 07
+        - X-Qute Small 08
+        - X-Qute Small 09
+        - X-Qute Small 10
+        - X-Qute Small 11
+        - X-Qute Small 12
+        - X-Qute Small 13
+        - X-Qute Small 14
+        - X-Qute Small 15
+        - X-Qute Small 16
+        - X-Qute Small 17
+        - X-Qute Small 18
+        - X-Qute Small 19
+        - X-Qute Small 20
+        - X-Qute Small 21
+        - X-Qute Small 22
+        - X-Qute Small 23
+        - X-Qute Small 24
+        - X-Qute Small 25
+        - X-Qute Small 26
+        - X-Qute Small 27
+        - X-Qute Small 28
+        - X-Qute Small 29
+        - X-Qute Small 30
