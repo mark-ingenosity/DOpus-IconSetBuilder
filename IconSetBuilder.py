@@ -4,8 +4,8 @@
 ## Name:		IconSetBuilder.py
 ## Purpose:	Automates the creation of custom Directory Opus iconsets
 ##
-## $Author: Mark Vlach $
-## $Date: 12/25/20 $
+## Author: Mark Vlach
+## Github: https://github.com/mark-ingenosity
 ## Copyright: 2020
 ## License:
 ## Notes:
